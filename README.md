@@ -2,7 +2,7 @@
 
 This project involves analyzing store-wise data to understand trends, replenishment rates, consumption rates, and average shelf fullness for different brands. The analysis is carried out using Python and various libraries like pandas, matplotlib, seaborn, and xlwings.
 
-## Project Overview
+# Project Overview
 
 The main objectives of this analytics project are:
 
@@ -19,7 +19,7 @@ The main objectives of this analytics project are:
 
 
 
-## Results and Conclusion
+# Results and Conclusion
 
 This analytics project provides insights into the trends, replenishment rates, consumption rates, and average shelf fullness for different brands in different stores. By analyzing critical points, the project helps in understanding when and how replenishment and consumption events occur. The visualizations provide a clear representation of the data patterns and trends.<br>
 <br>
@@ -27,4 +27,11 @@ This analytics project provides insights into the trends, replenishment rates, c
 
 
 ![Chart Title](https://res.cloudinary.com/dqwly03el/image/upload/v1693388698/visualisation_charts_lu5p0c.png)
+
+
+
+
+
+
+
 
